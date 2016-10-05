@@ -25,11 +25,13 @@ Please cite our paper in your publications if you use our dataset or if it helps
       bibsource = {dblp computer science bibliography, http://dblp.org}
       }
 
-### Instructions for running code 
+### Instructions for running (MATLAB) code 
 
 To obtain the relative importance of semantic-parts in a given category, assuming a particular sketch stroke order, run the following MATLAB script: 
 
+```bash
 get_epitome_part_stats_driver
+```
 Modify the above script by following the comments in the corresponding .m file (get_epitome_part_stats_driver.m)
 
 To obtain a numerical characterization of semantic-part distribution histogram for a given sketch stroke ordering, run  part_distribution_stats.m
@@ -41,6 +43,7 @@ part_distribution_stats('results','temporal')
 ### Additional information and Datasets 
 
 annotated-final : This is the directory containing the final set of sketch part contour annotations for the 13 object categories-original
+
 results : This directory contains the per-category histogram of relative part importances for different sketch stroke orderings
 
 160-pp/annotated-images : This directory contains the guideline images used by annotators while annotating sketch part contours
