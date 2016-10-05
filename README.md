@@ -3,6 +3,8 @@
 The documentation below pertains to the approach presented in our ACMMM-2016 paper for analyzing part importance of category-epitomes, 
 a novel visual representation for sketches developed by us. 
 
+Project Page : http://val.serc.iisc.ernet.in/eotd/epipartviz/
+
 You can access our ACMMM-2016 paper 'Analyzing structural characteristics of object category representations from their semantic-part distributions' [here.](https://arxiv.org/abs/1509.04399)
 
 Our ACMMM-2015 paper which introduces category-epitome, 'Eye of the Dragon : Exploring discriminatively minimalist sketch-based abstractions for object categories' can be accessed [here.](http://val.serc.iisc.ernet.in/eotd-preprint.pdf)
