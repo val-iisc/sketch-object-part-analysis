@@ -1,0 +1,9 @@
+hair
+head
+eye
+nose
+mouth
+chest
+hand
+leg
+foot

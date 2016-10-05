@@ -1,0 +1,11 @@
+steering
+windshield
+door
+window
+wheel
+seat
+frame
+bonnet
+headlight 
+radiator grille
+bumper

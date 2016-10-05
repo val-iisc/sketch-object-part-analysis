@@ -1,0 +1,9 @@
+body
+mane
+eye
+head
+mouth
+nose
+leg
+tail
+hoofs

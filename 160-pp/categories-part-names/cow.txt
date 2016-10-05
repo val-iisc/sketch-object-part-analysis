@@ -1,0 +1,9 @@
+nose
+mouth
+ear
+horn
+eye
+tail
+patch
+leg
+udder

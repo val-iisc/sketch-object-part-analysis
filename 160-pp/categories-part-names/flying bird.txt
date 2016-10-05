@@ -1,0 +1,7 @@
+beak
+head 
+eye
+wing
+body
+tail
+leg

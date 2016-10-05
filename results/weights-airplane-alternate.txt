@@ -1,0 +1,9 @@
+wing -> 1.000000
+window -> 0.928471
+fuselage -> 0.598695
+vertical stabilizer -> 0.470805
+wind shield -> 0.333937
+engine -> 0.255797
+horizontal stabilizer -> 0.192678
+door -> 0.054473
+nose -> 0.026936

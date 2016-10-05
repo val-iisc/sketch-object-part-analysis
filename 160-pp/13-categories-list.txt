@@ -1,0 +1,13 @@
+airplane
+bicycle
+bus
+car (sedan)
+cat
+cow
+dog
+flying bird
+horse
+person walking
+potted plant
+sheep
+train

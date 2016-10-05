@@ -1,0 +1,10 @@
+chimney
+smoke
+track
+wheel
+window
+front
+coupler	
+coach
+engine
+door

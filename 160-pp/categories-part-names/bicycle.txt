@@ -1,0 +1,7 @@
+wheel
+spoke
+handlebars
+pedal
+seat
+frame
+chain

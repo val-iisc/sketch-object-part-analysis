@@ -1,0 +1,121 @@
+airplane
+	nose
+	wind shield
+	window
+	wing
+	engine
+	vertical stabilizer
+	horizontal stabilizer
+	fuselage
+	
+bicycle
+	wheel
+	spoke
+	handlebars
+	pedal
+	seat
+	frame
+	chain
+	
+bus
+	steering
+	windshield
+	door
+	window
+	wheel
+	body
+	headlight
+	roof
+	
+car (sedan)
+	steering
+	windshield
+	door
+	window
+	wheel
+	seat
+	frame
+	bonnet
+	headlight 
+	
+cat
+	mouth
+	eye
+	ear
+	nose
+	whiskers
+	leg 
+	tail
+
+cow
+	nose
+	mouth
+	ear
+	horn
+	eye
+	tail
+	patch
+	leg
+	udder
+	
+dog
+	mouth
+	eye
+	nose
+	ear
+	leg
+	tail
+	body 
+	head
+
+flying bird
+	beak
+	head 
+	eye
+	wing
+	body
+	tail
+	leg
+	
+horse
+	body
+	mane
+	head
+	mouth
+	nose
+	leg
+	tail
+	hoofs
+
+person walking
+		hair
+		head
+		eye
+		nose
+		mouth
+		chest
+		hand
+		leg
+		foot
+		
+pottedplant
+	leaf
+	pot
+	
+sheep
+	mouth
+	ear
+	eye 
+	leg
+	tail
+	nose
+	body 
+
+train
+	chimney
+	smoke
+	track
+	wheel
+	window
+	front
+	coupler	

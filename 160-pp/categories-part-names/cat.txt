@@ -1,0 +1,8 @@
+mouth
+eye
+ear
+nose
+whiskers
+leg 
+tail
+paw

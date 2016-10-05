@@ -1,0 +1,8 @@
+mouth
+eye
+nose
+ear
+leg
+tail
+body 
+head

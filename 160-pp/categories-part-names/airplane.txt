@@ -1,0 +1,9 @@
+nose
+wind shield
+window
+door
+wing
+engine
+vertical stabilizer
+horizontal stabilizer
+fuselage

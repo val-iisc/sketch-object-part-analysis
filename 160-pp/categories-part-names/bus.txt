@@ -1,0 +1,8 @@
+steering
+windshield
+door
+window
+wheel
+body
+headlight
+roof

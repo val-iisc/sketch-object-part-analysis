@@ -1,0 +1,8 @@
+window -> 1.000000
+wheel -> 0.566701
+body -> 0.316460
+windshield -> 0.130220
+door -> 0.128059
+headlight -> 0.065420
+roof -> 0.056258
+steering -> 0.054423

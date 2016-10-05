@@ -1,0 +1,10 @@
+wheel -> 1.000000
+window -> 0.387689
+coach -> 0.368917
+engine -> 0.175655
+track -> 0.152784
+chimney -> 0.123275
+coupler	 -> 0.121269
+smoke -> 0.073924
+front -> 0.062489
+door -> 0.010689

@@ -1,0 +1,7 @@
+frame -> 1.000000
+wheel -> 0.936323
+spoke -> 0.726537
+seat -> 0.239367
+chain -> 0.189072
+handlebars -> 0.149037
+pedal -> 0.124342

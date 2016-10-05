@@ -1,0 +1,11 @@
+wheel -> 1.000000
+window -> 0.934846
+frame -> 0.651477
+headlight  -> 0.324407
+door -> 0.281417
+windshield -> 0.142193
+bonnet -> 0.115272
+radiator grille -> 0.058773
+bumper -> 0.056831
+steering -> 0.021956
+seat -> 0.009714
